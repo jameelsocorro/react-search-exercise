@@ -12,3 +12,7 @@ $ cd react-search-exercise
 $ npm i
 $ npm start
 ```
+
+## Troubleshoot
+If you encounter errors on console regarding the CORS, All you have to do is **_search again after a minute_**. 
+The error occurs because i'm only using the developer package on the API. The API has a maximum of 5 calls per minute. 
