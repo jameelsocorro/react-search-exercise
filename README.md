@@ -12,6 +12,7 @@ $ cd react-search-exercise
 $ npm i
 $ npm start
 ```
+Once the application starts it will be available in `http://localhost:3000`
 
 ## Troubleshoot
 If you encounter errors on console regarding the CORS, All you have to do is **_search again after a minute_**. 
